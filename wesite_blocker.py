@@ -4,7 +4,7 @@ from datetime import datetime as dt
 host_file='hosts'
 host_path=r"C:\Windows\System32\drivers\etc\hosts"
 redirect="127.0.0.1"
-website=['www.facebook.com','facebook.com','web.whatsapp.com','www.web.whatsapp.com','in.yahoo.com','www.in.yahoo.com']
+website=['www.facebook.com','facebook.com','web.whatsapp.com','www.web.whatsapp.com','in.yahoo.com','www.in.yahoo.com', 'www.chadaunion.com]
 
 while True:
     print(dt.now())
